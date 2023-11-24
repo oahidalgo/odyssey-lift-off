@@ -1,35 +1,31 @@
-# Odyssey Lift-off I: Basics
+# Odyssey Lift-off
 
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
-
-You can [preview the completed demo app here](https://odyssey-catstronauts.netlify.app/).
+Welcome to the companion app of Odyssey Lift-off! This repository serves as the starting point for your journey in learning GraphQL and React.
 
 ## How to use this repo
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
+The repository consists of three main folders:
 
-There are 3 main folders:
+- `server`: Contains the initial setup for the GraphQL server.
+- `client`: Contains the initial setup for the React application.
+- `final`: Contains the final stage of both the server and client folders, with all the steps and code completed.
 
-- `server`: The starting point of our GraphQL server.
-- `client`: The starting point of our React application.
-- `final`: The final stage of both the server and client folders, with all of the steps and code completed!
-
-To get started:
+To get started, follow these steps:
 
 1. Navigate to the `server` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+2. Run `npm install` to install the dependencies.
+3. Run `npm start` to start the GraphQL API server.
 
-This will start the GraphQL API server.
-
-In another terminal window,
+In another terminal window, follow these steps:
 
 1. Navigate to the `client` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+2. Run `npm install` to install the dependencies.
+3. Run `npm start` to start the React application.
 
-This will open up `localhost:3000` in your web browser.
+This will open `localhost:3000` in your web browser.
 
 ## Getting Help
 
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+If you encounter any issues or have questions regarding the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+
+You can also find the course lessons and instructions on [Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform. Additionally, you can preview the completed demo app [here](https://odyssey-catstronauts.netlify.app/).
